@@ -9,5 +9,5 @@
 Developed by- Tanmoy Ghosh & Priyabrota Sen
 
 
-
+Using this application we can digitalize our medical system. 
 
