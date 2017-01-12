@@ -1,4 +1,4 @@
-# Software-Development-Project-1
+# Medical Center Automation System
 
 2nd Year 1st Term Project(CSE 2100 - Software Development Project-1). Supervised By 
                               AL-Mahmud,
